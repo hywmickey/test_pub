@@ -1,1 +1,1 @@
-token: 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
+token: 只是一个测试而已
