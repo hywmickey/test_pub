@@ -1,0 +1,5 @@
+用户名：hywmickey
+仓库名：test_pub
+token：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
+分支：main
+加速：https://ghproxy.com/
